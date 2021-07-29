@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praveen
-- 👀 I’m interested in Algo design/AI/ML
-- 🌱 I’m currently learning AI/ML
+- 👀 I’m interested in Algo design, AI/ML 🕹⚙⏳
+- 🌱 I’m currently learning AI/ML 👁👀
 - 💞️ I’m looking to collaborate on Building API
 - 📫 How to reach me pks101295@gmail.com
 
